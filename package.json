@@ -24,6 +24,7 @@
     "@formio/js": "^5.0.0-rc.27",
     "bootstrap": "^4.5.3",
     "font-awesome": "^4.7.0",
+    "formio-export": "^0.3.0",
     "formiojs": "^4.17.1",
     "jquery": "^3.7.0",
     "ngx-bootstrap": "^10.2.0",
